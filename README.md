@@ -3,6 +3,7 @@
 - 👀 I’m interested in Machine Learning and IA.
 - 🔭 I’m currently working as a Cost and Budget Analyst in a Logistic of Transport Company
 - 🌱 I’m currently deeping knowledge and acquiring skills in Python and Machine Learning Models
+- 🌱 Java enthusiastic 
 - 📫 How to reach me angemar2993@hotmail.com
 - 🗂 I’m working at the design of the web site of a Colombian Jewelry Handmade Brand
 - 💞️ I also enjoy dancing, learning languages, traveling and love dogs.
